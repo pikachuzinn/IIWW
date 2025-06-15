@@ -127,3 +127,12 @@
   border-radius: 5px;
   cursor: pointer;
 }
+.botao-envolvidos{
+  background-color: #ff00ff;
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
