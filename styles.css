@@ -163,3 +163,12 @@
   border-radius: 5px;
   cursor: pointer;
 }
+.botao-hiroshima-nagasaki{
+  background-color: #ff0000;
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
