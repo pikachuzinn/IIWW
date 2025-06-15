@@ -145,3 +145,12 @@
   border-radius: 5px;
   cursor: pointer;
 }
+.botao-papel-eua{
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
